@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Tela introdutória -->
+    <string name="app_name">Frô</string>
+    <string name="txtVBoasVindas">bem-vinde à frô.</string>
+    <string name="txtPular">pular</string>
+
+    <!-- Menu -->
+    <string name="txtSlogan">Frô, porque você e sua plantinha merecem ser felizes!</string>
+    <string name="navigationDrawerOpen">Abrir menu</string>
+    <string name="navigationDrawerClose">Fechar menu</string>
+
+
+    <string name="title_activity_drawer">drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="txtPerfil">Perfil</string>
+    <string name="txtAmigos">Amigos</string>
+    <string name="txtAddPlanta">Adicionar planta</string>
+    <string name="txtMinhasPlantas">Minhas plantas</string>
+    <string name="txtGaleria">Galeria</string>
+    <string name="txtLoginEntrar">entrar</string>
+    <string name="txtForgPass">esqueci minha senha</string>
+</resources>
